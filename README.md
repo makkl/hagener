@@ -1,5 +1,5 @@
 # hagener
-Herzliche Willkommen!
+Herzlich Willkommen!
 
 In den einzelnen Dateien sind die Linienwege der einzelnen Linien der Hagener Straßenbahn beschrieben. Sie sind so aufgebaut,
 dass pro Fahrt maximal eine DIN A4 Seite gebraucht wird.
